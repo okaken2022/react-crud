@@ -1,0 +1,13 @@
+.pixabay-logo {
+  width: 200px;
+}
+
+.image-list .ui.medium.image {
+  width: 25%;
+  padding: 0 3px 3px;
+}
+
+.image-list .ui.medium.image img {
+  width: 100%;
+  height: 100%;
+}
